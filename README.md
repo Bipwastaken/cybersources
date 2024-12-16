@@ -185,8 +185,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Hunter](https://hunter.io)                  | Find email addresses quickly and connect with business contacts.            |
 | [LeakCheck](https://leakcheck.io/)           | Search over 7.5B breached entries for emails, usernames, and other data.    |
 | [LeakRadar](https://leakradar.io/) | Monitors stealer logs to identify compromised domains and email addresses, providing real-time alerts and proactive protection against breaches. |
-|[Telegram Group](https://t.me/+tObrYXqGOetmODhl)|A Telegram bot that allows you to search people's names in more than 3000 websites.|
-
 
 ##### 3.3 [↑](#-content) GEOINT
 
@@ -359,7 +357,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Cyberbro](https://github.com/stanfrbd/cyberbro) | A simple application that extracts your IoCs from garbage input and checks their reputation using multiple CTI services (API and scraping). |
 | [recon-ng](https://github.com/lanmaster53/recon-ng)  | Web reconnaissance framework for gathering OSINT.                                  |
 | [SpySe](https://spyse.com/)                        | Data gathering service offering detailed information on IPs, domains, ports, technologies, and more through OSINT. |
-| [FindSubdomains](https://findsubdomains.com/)       | Subdomain discovery tool that gathers and validates subdomains from open-source internet sources. |
 | [Git-Scanner](https://github.com/HightechSec/git-scanner) | Tool for bug hunting or penetration testing to find exposed .git repositories.     |
 | [Keyscope](https://github.com/SpectralOps/keyscope)  | Key and secret auditing tool that checks secrets against multiple SaaS platforms. |
 | [VHostScan](https://github.com/codingo/VHostScan)    | Virtual host scanner that performs reverse lookups and detects dynamic default pages, aliases, and catch-all configurations. |
